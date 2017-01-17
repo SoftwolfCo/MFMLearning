@@ -27,8 +27,9 @@
     </li>
     <li class="w3-hide-small"><a href="#about" class="w3-padding-large w3-hover-white">About</a></li>
     <li class="w3-hide-small"><a href="./price.php" class="w3-padding-large w3-hover-white">Pricing</a></li>
-    <li class="w3-hide-small"><a href="./login.php" class="w3-padding-large w3-hover-white">Login</a></li>
+    <li class="w3-hide-small"><a href="./login/login.php" class="w3-padding-large w3-hover-white">Login</a></li>
     <li class="w3-hide-small"><a href="./price.php#join" class="w3-padding-large w3-hover-white">Sign Up</a></li>
+     <li class="w3-hide-small"><a href="./login/account.php" class="w3-padding-large w3-hover-white">My Account</a></li>
   </ul>
 
   <!-- Navbar on small screens -->
@@ -36,8 +37,9 @@
     <ul class="w3-navbar w3-left-align w3-large w3-black">
       <li><a class="w3-padding-large" href="#about">About</a></li>
       <li><a class="w3-padding-large" href="./price.php">Pricing</a></li>
-      <li><a class="w3-padding-large" href="./login.php">Login</a></li>
+      <li><a class="w3-padding-large" href="./login/login.php">Login</a></li>
       <li><a class="w3-padding-large" href="./price.php#join">Sign Up</a></li>
+      <li><a class="w3-padding-large" href="./login/account.php">My Account</a></li>
     </ul>
   </div>
 </div>
@@ -88,7 +90,7 @@
 <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-third w3-center">
-      <i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
+      <i class="fa fa-Tablet w3-padding-64 w3-text-red w3-margin-right"></i>
     </div>
 
     <div class="w3-twothird">
@@ -96,7 +98,7 @@
       <h5 class="w3-padding-32">We have made a system that tells to the teacher and student what they strugle and achive in and makes the leason arond that so it dose not hold back the best and britest and 
       does not march on relentlessly leaving people behind like the nornal non flexible curiculum. </h5>
 
-      <p class="w3-text-grey"></p>
+      <p class="w3-text-grey">This was made by Alcide Viau and Joshua Chamberlain so we can help our fellow student and not be bored in class lising to stuff we allready know</p>
     </div>
   </div>
 </div>

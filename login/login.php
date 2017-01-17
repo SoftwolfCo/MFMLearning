@@ -21,7 +21,7 @@ if(isset($_POST['submitted']))
 <body>
   
 <header class="w3-container w3-red">
-  <h1>MFM Learning - Student Login</h1>
+  <h1>MFM Learning - Login</h1>
 </header>
 
 <!-- Form Code Start -->
